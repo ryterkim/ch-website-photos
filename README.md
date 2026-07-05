@@ -11,14 +11,16 @@ https://raw.githubusercontent.com/ryterkim/ch-website-photos/main/<ordner>/<date
 
 | Ordner | Inhalt | Anzahl |
 |---|---|---|
+| [`curated/`](curated/) | **Kuratierte Auswahl — 20 stärkste Motive** ⭐ | 20 |
 | [`mountain-spirit/`](mountain-spirit/) | Mountain Spirit 2025 | 159 |
 | [`dance-fever/`](dance-fever/) | Dance Fever 2026 | 194 |
 | | **Total** | **353** |
 
 ## Für Claude Design
 
-- Galerie zum Durchblättern: siehe die README in jedem Ordner (Thumbnails).
-- Alle Direkt-URLs am Stück: [`urls.txt`](urls.txt) — zum Reinkopieren in die Design-Session.
+- **Fokus-Set (empfohlen):** [`curated/`](curated/) — 20 kuratierte Motive mit Galerie. URLs: [`curated-urls.txt`](curated-urls.txt).
+- Volles Material zum Durchblättern: README in [`mountain-spirit/`](mountain-spirit/) und [`dance-fever/`](dance-fever/) (Thumbnails).
+- Alle 353 Direkt-URLs am Stück: [`urls.txt`](urls.txt) — zum Reinkopieren in die Design-Session.
 
 ## Nachträglich Bilder ergänzen/entfernen
 
